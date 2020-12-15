@@ -1,0 +1,297 @@
+@media (min-width: 1500px) and (max-width: 1700px) {
+    .afisha__back {
+        display: none;
+    }
+    .logo4 {
+        display: none;
+    }
+    .plays__logo {
+        justify-content: space-around;
+    }
+    .hamb__btn{display: none;}
+}
+
+@media (min-width: 1100px) and (max-width: 1499px) {
+    .afisha__back {
+        display: none;
+    }
+    .logo4 {
+        display: none;
+    }
+    .hamb__btn{display: none;}
+    .column__picture {
+        display: none;
+    }
+    .logo3 {
+        display: none;
+    }
+    .plays__logo {
+        justify-content: space-around;
+    }
+    .gaz__logo4 {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1099px) {
+    .afisha__back {
+        display: none;
+    }
+    .logo4 {
+        display: none;
+    }
+    .menu__number {
+        justify-content: center;
+    }
+    .column__picture {
+        display: none;
+    }
+    .hamb__btn{display: none;}
+    .logo3 {
+        display: none;
+    }
+    .plays__logo {
+        justify-content: space-around;
+    }
+    .about__column {
+        display: block;
+        text-align: center;
+    }
+    .column__place {
+        margin-top: 60px;
+    }
+    .gaz__logo4 {
+        display: none;
+    }
+    .gaz__logo3 {
+        display: none;
+    }
+    .queue {
+        display: none;
+    }
+    .zone__message {
+        width: 390px;
+        margin-left: 300px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .picture {
+        display: none;
+    }
+    .hamb__btn{display: flex;}
+    .afisha__back {
+        display: none;
+    }
+    .logo4 {
+        display: none;
+    }
+    .column__picture {
+        display: none;
+    }
+    .logo3 {
+        display: none;
+    }
+    .logo2 {
+        display: none;
+    }
+    .about__column {
+        display: block;
+        text-align: center;
+    }
+    .panel {
+        display: none
+    }
+    .column__place {
+        margin-top: 60px;
+    }
+    .afisha {
+        display: block;
+    }
+    .menu__item {
+        display: none;
+    }
+    .menu__number {
+        margin-left: 600px;
+    }
+    .gaz__logo4 {
+        display: none;
+    }
+    .gaz__logo3 {
+        display: none;
+    }
+    .gaz__logo2 {
+        display: none;
+    }
+    .queue {
+        display: none;
+    }
+    .zone__message {
+        width: 390px;
+        margin-left: 300px;
+    }
+}
+
+@media (max-width: 767px) {
+    .picture {
+        display: none;
+    }
+    .afisha__back {
+        display: none;
+    }
+    .logo4 {
+        display: none;
+    }
+    .hamb__btn{display: flex;}
+    .column__picture {
+        display: none;
+    }
+    .logo3 {
+        display: none;
+    }
+    .about__column {
+        display: block;
+        text-align: center;
+    }
+    .panel {
+        display: none
+    }
+    .afisha {
+        display: block;
+    }
+    .panel {
+        display: none
+    }
+    .plays__logo {
+        margin-left: 30px;
+        justify-content: center;
+    }
+    .logo2 {
+        display: none;
+    }
+    .afisha {
+        display: block;
+    }
+    .menu__item {
+        display: none;
+    }
+    .menu__number {
+        margin-left: 400px;
+    }
+    .gaz__logo4 {
+        display: none;
+    }
+    .gaz__logo3 {
+        display: none;
+    }
+    .column__place {
+        margin-top: 60px;
+    }
+    .gaz__logo2 {
+        display: none;
+    }
+    .form__block {
+        display: block;
+        text-align: right;
+    }
+    .queue {
+        display: none;
+    }
+    .zone__message {
+        width: 390px;
+        margin-right: 30px;
+    }
+    .block__zone1 {
+        margin-top: 50px;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .picture {
+        display: none;
+    }
+    .afisha {
+        display: block;
+        flex-wrap: wrap;
+    }
+    .column__place {
+        margin-top: 60px;
+    }
+    .logo2 {
+        display: none;
+    }
+    .hamb__btn{display: flex;}
+    .afisha__descr {
+        margin-left: 0px;
+    }
+    .afisha__back {
+        display: none;
+    }
+    .plays__logo {margin: 0px;
+    margin-top:30px;}
+        
+    
+    .logo4 {
+        display: none;
+    }
+    .column__picture {
+        display: none;
+    }
+    .logo3 {
+        display: none;
+    }
+    .menu__number {
+        margin-left: 150px;
+    }
+    .column__best {
+        white-space: space normal;
+        ;
+    }
+    .about__column {
+        display: block;
+        text-align: center;
+    }
+    .panel {
+        display: none;
+    }
+    .afisha {
+        display: block;
+    }
+    .gaz__logo4 {
+        display: none;
+    }
+    .gaz__logo3 {
+        display: none;
+    }
+    .gaz__logo2 {
+        display: none;
+    }
+    .zone__info {
+        width: 120px;
+    }
+    .descr__tittle {
+        font-size: 36px;
+    }
+    .descr__button {
+        width: 170px;
+    }
+    .gaz__logo1 {
+        width: 200px;
+    }
+    .zone__message {
+        width: 280px;
+        margin-right: 30px;
+    }
+    .pictureq {
+        width: 280px;
+        height: 550px;
+        
+    }
+    .zone__button {
+        margin-left: 160px;
+    }
+    .afisha {
+        margin-left: 50px;
+    }
+}
