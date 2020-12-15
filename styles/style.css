@@ -6,7 +6,7 @@
 }
 
 .startscreen {
-    background: linear-gradient(0deg, rgba(51, 51, 51, 0.30), rgba(51, 51, 51, 0.30)), url(/img/backgroung.png);
+    background: linear-gradient(0deg, rgba(51, 51, 51, 0.30), rgba(51, 51, 51, 0.30)), url(../img/backgroung.png);
     background-size: cover;
 }
 
